@@ -64,15 +64,6 @@ IP               MAC Address
 - **Run as Administrator**: This script requires administrative privileges to send ARP requests. Make sure to run it with appropriate permissions.
 - **Use Responsibly**: Ensure you have permission to scan any network before using this script. Unauthorized network scanning may be illegal.
 
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it responsibly.
-
-## Contributing
-Contributions are welcome! If you'd like to improve this project, please fork the repository and submit a pull request.
-
-## Contact
-If you have any questions or feedback, feel free to contact me at [your-email@example.com].
-
 ---
 
 Thank you for checking out my project! I hope this helps demonstrate my Python skills and interest in networking and cybersecurity.
