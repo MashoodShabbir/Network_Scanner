@@ -22,26 +22,26 @@ pip install scapy
 ## How to Use
 
 1. Clone the repository or download the script:
-   ```bash
-git clone <repository-url>
+```bash
+git clone https://github.com/MashoodShabbir/Network_Scanner.git
 ```
 
 2. Navigate to the directory containing the script:
-   ```bash
-cd <directory-name>
+```bash
+cd Network_Scanner
 ```
 
 3. Run the script with Python, providing the target network or IP range using the `-t` or `--target` flag:
-   ```bash
-python network_scanner.py -t <target-network>
+```bash
+python3 network_scanner.py -t <target-network>
 ```
-   Example:
-   ```bash
+Example:
+```bash
 python network_scanner.py -t 192.168.1.0/24
 ```
 
 4. The script will display a list of devices found on the network:
-   ```
+```bash
 IP               MAC Address
 --------------------------------
 192.168.1.1     00:11:22:33:44:55
@@ -52,7 +52,7 @@ IP               MAC Address
 - `-t`, `--target`: Specifies the target network or IP range to scan. This argument is required.
 
 ## Example Output
-```
+```bash
 IP               MAC Address
 --------------------------------
 192.168.1.1     00:11:22:33:44:55
